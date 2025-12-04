@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • WordPress Expert • Bug Fixing Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME?tab=repositories">🌐 Check my projects</a> •
+  <a href="https://github.com/emiros99?tab=repositories">🌐 Check my projects</a> •
   <a href="https://www.upwork.com/freelancers/~0140785df26abb7bc1">💼 Hire me on Upwork</a>
 </p>
 
