@@ -17,7 +17,6 @@ Over the past 1.5 years, I have architected and developed a comprehensive, multi
 *   **Tooling & Cloud:** Git/GitHub, Docker, Service Account Management.
 
 ###  Let's Connect
-*   **Portfolio:** [signalstudiolabs.com](https://signalstudiolabs.com)[cite: 1]
 *   **Email:** zoltanszabados1989@gmail.com
 
 *"Translating manual bottlenecks into scalable, automated cloud architectures."*
